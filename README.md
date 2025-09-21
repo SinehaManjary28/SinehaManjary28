@@ -3,7 +3,7 @@
 # Hi there, I'm Sineha Manjary  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Data+Science+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+Enthusiast;Machine+Learning+Enthusiast;Deep+Learning+Explorer;Data+Science+Learner;Data+Analyst" alt="Typing SVG" />
 </p>
 
 <p>
