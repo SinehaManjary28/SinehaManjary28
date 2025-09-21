@@ -11,7 +11,7 @@
   </a>
 </p>
 
-### *"Transforming data into AI-driven solutions that solve real-world problems"*  
+### *"Teaching machines to think, so humans can dream bigger."*  
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=SinehaManjary28&style=flat-square&color=blue" alt="profile views"/>
@@ -25,7 +25,7 @@
 - Passionate about **Machine Learning, Deep Learning, and AI**  
 - Specialized in **Healthcare AI & Computer Vision**  
 - Skilled in Python, SQL, TensorFlow, Keras, PyTorch, Streamlit, Flask  
-- Strong foundation in **Mathematics & Statistics**  
+- Strong foundation in **Mathematics**  
 
 ---
 
@@ -60,10 +60,7 @@
 ## Professional Aspirations  
 
 **Seeking Opportunities In:**  
-- Data Scientist roles in innovative companies  
-- AI Research positions in healthcare domain  
-- Machine Learning Engineer opportunities  
-- Research Collaborations in XAI and Healthcare AI  
+- Data Scientist, deep learning , Machine learning, Data analyst roles in innovative companies  
 
 **What Drives Me:**  
 *"The concept of how data is created all around us and how valuable it becomes when used properly to shape our world fascinates me.  
