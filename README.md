@@ -1,6 +1,6 @@
 <!-- SinehaManjary28/README.md -->
 
-# 👋 Hi there, I'm Sineha Manjary  
+# Hi there, I'm Sineha Manjary  
 
 <p>
   <a href="https://www.linkedin.com/in/sineha-manjary" target="_blank">
@@ -19,17 +19,17 @@
 
 ---
 
-## 🚀 About Me  
-- 🎓 M.Sc Data Science student with **B.Sc Mathematics** background  
-- 💻 Internship experience in **Data Analysis** & **Deep Learning**  
-- 🤖 Passionate about **Machine Learning, Deep Learning, and AI**  
-- 🩺 Specialized in **Healthcare AI & Computer Vision**  
-- 📊 Skilled in Python, SQL, TensorFlow, Keras, PyTorch, Streamlit, Flask  
-- ✨ Strong foundation in **Mathematics & Statistics**  
+## About Me  
+- M.Sc Data Science student with **B.Sc Mathematics** background  
+- Internship experience in **Data Analysis** & **Deep Learning**  
+- Passionate about **Machine Learning, Deep Learning, and AI**  
+- Specialized in **Healthcare AI & Computer Vision**  
+- Skilled in Python, SQL, TensorFlow, Keras, PyTorch, Streamlit, Flask  
+- Strong foundation in **Mathematics & Statistics**  
 
 ---
 
-## 💻 Tech Arsenal  
+## Tech Arsenal  
 
 **AI & ML**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
@@ -57,10 +57,36 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinehaManjary28&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinehaManjary28&layout=compact&theme=tokyonight" width="48%"/>
-</p>
+## Professional Aspirations  
+
+**Seeking Opportunities In:**  
+- Data Scientist roles in innovative companies  
+- AI Research positions in healthcare domain  
+- Machine Learning Engineer opportunities  
+- Research Collaborations in XAI and Healthcare AI  
+
+**What Drives Me:**  
+*"The concept of how data is created all around us and how valuable it becomes when used properly to shape our world fascinates me.  
+I'm particularly passionate about healthcare applications where AI can save lives and improve human well-being."*  
 
 ---
+
+## Let's Connect & Collaborate!  
+
+**Always Excited to Discuss:**  
+`Healthcare AI` • `Research & Applications` • `Explainable AI` • `Methods & Ethics`  
+`Neural Networks` • `Architecture & Innovation` • `Open Source` • `Contributions & Collaboration`  
+
+**Find Me Online:**  
+<a href="https://www.linkedin.com/in/sineha-manjary" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL%20NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/SinehaManjary28" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-CODE%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+---
+
+## Thank You for visiting my profile!  
+
+If you find my work interesting, don’t forget to ⭐ my repositories and let’s build the future of AI together!  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Happy%20Coding!&fontSize=28&fontColor=fff" width="100%"/>
+</p>
